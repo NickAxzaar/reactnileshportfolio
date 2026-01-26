@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreactnileshportfolio=self.webpackChunkreactnileshportfolio||[]).push([[822],{822(e,r,s){s.r(r),s.d(r,{default:()=>n});s(43);var i=s(579);const n=function(){return(0,i.jsxs)("section",{id:"resume",style:{marginBottom:"2rem"},children:[(0,i.jsx)("h2",{children:"Resume"}),(0,i.jsxs)("p",{children:["Download my resume as PDF"," ",(0,i.jsx)("a",{href:"/nilesh_kumar_ahirwar.pdf",download:"nilesh_kumar_ahirwar.pdf",children:"View Resume"})]})]})}}}]);
+//# sourceMappingURL=822.17b1a143.chunk.js.map

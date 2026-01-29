@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.e7e33aa3.css",
-    "main.js": "/my-app/static/js/main.852ecc37.js",
-    "static/js/57.f4911a37.chunk.js": "/my-app/static/js/57.f4911a37.chunk.js",
-    "static/js/697.646b787f.chunk.js": "/my-app/static/js/697.646b787f.chunk.js",
-    "static/js/822.17b1a143.chunk.js": "/my-app/static/js/822.17b1a143.chunk.js",
-    "static/js/667.6fe74a11.chunk.js": "/my-app/static/js/667.6fe74a11.chunk.js",
-    "static/js/453.ae205c90.chunk.js": "/my-app/static/js/453.ae205c90.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.e7e33aa3.css.map": "/my-app/static/css/main.e7e33aa3.css.map",
-    "main.852ecc37.js.map": "/my-app/static/js/main.852ecc37.js.map",
-    "57.f4911a37.chunk.js.map": "/my-app/static/js/57.f4911a37.chunk.js.map",
-    "697.646b787f.chunk.js.map": "/my-app/static/js/697.646b787f.chunk.js.map",
-    "822.17b1a143.chunk.js.map": "/my-app/static/js/822.17b1a143.chunk.js.map",
-    "667.6fe74a11.chunk.js.map": "/my-app/static/js/667.6fe74a11.chunk.js.map",
-    "453.ae205c90.chunk.js.map": "/my-app/static/js/453.ae205c90.chunk.js.map"
+    "main.css": "/reactnileshportfolio/static/css/main.e7e33aa3.css",
+    "main.js": "/reactnileshportfolio/static/js/main.2667935a.js",
+    "static/js/57.f4911a37.chunk.js": "/reactnileshportfolio/static/js/57.f4911a37.chunk.js",
+    "static/js/697.646b787f.chunk.js": "/reactnileshportfolio/static/js/697.646b787f.chunk.js",
+    "static/js/822.17b1a143.chunk.js": "/reactnileshportfolio/static/js/822.17b1a143.chunk.js",
+    "static/js/667.6fe74a11.chunk.js": "/reactnileshportfolio/static/js/667.6fe74a11.chunk.js",
+    "static/js/453.ae205c90.chunk.js": "/reactnileshportfolio/static/js/453.ae205c90.chunk.js",
+    "index.html": "/reactnileshportfolio/index.html",
+    "main.e7e33aa3.css.map": "/reactnileshportfolio/static/css/main.e7e33aa3.css.map",
+    "main.2667935a.js.map": "/reactnileshportfolio/static/js/main.2667935a.js.map",
+    "57.f4911a37.chunk.js.map": "/reactnileshportfolio/static/js/57.f4911a37.chunk.js.map",
+    "697.646b787f.chunk.js.map": "/reactnileshportfolio/static/js/697.646b787f.chunk.js.map",
+    "822.17b1a143.chunk.js.map": "/reactnileshportfolio/static/js/822.17b1a143.chunk.js.map",
+    "667.6fe74a11.chunk.js.map": "/reactnileshportfolio/static/js/667.6fe74a11.chunk.js.map",
+    "453.ae205c90.chunk.js.map": "/reactnileshportfolio/static/js/453.ae205c90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7e33aa3.css",
-    "static/js/main.852ecc37.js"
+    "static/js/main.2667935a.js"
   ]
 }
